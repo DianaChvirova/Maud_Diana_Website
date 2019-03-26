@@ -10,3 +10,6 @@
 #4. Books recommendations
 #5. Movies and series recommendations
 #6. Contact information: social media and subscription to the update
+
+
+#publish on github, public url
