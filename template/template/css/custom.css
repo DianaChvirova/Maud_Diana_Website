@@ -105,14 +105,10 @@ header .header-content .header-content-inner p {
     padding: 100px 0;
 }
 
+
 .content-2 {
 	color: #fff;
     background-color: #222;
-}
-
-.content-3 {
-	padding: 20px 0 40px;
-	text-align: center;
 }
 
 .promo,
@@ -178,11 +174,6 @@ header .header-content .header-content-inner p {
 	font-weight: 300;
 	}
 
-.content-3 .glyphicon,
-.page-footer .contact .glyphicon {
-	font-size: 32px;
-	font-weight: 700;
-	}
 
 .page-footer .small-print {
 	padding: 50px 0 40px;
