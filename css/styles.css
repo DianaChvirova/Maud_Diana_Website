@@ -1,7 +1,7 @@
 body {
-  background-color: #D1BBD2;
+  background-color: #F5F5F5;
   font-size: 18px;
-  font-family: 'Baloo Chettan', cursive;
+  font-family: 'Comic Sans MS';
 }
 
 body > .container {
@@ -9,7 +9,7 @@ body > .container {
 }
 
 .navbar-default {
-  background-color: #A738C4;
+  background-color: #6A5ACD;
   margin-bottom: 50px;
 }
 
