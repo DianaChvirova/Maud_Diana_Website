@@ -460,7 +460,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #4CAF50;
+  background-color: yellowgreen;
   color: black;
   padding: 12px 20px;
   border: none;
@@ -476,6 +476,7 @@ input[type=submit]:hover {
 /* Add a background color and some padding around the form */
 .container2 {
   border-radius: 5px;
-  background-color: #989797;
+  background-color: #DCD4D4;
+  color: black;
   padding: 20px;
 }
