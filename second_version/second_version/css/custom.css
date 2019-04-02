@@ -421,3 +421,13 @@ img::-moz-selection {
 .bg-primary {
     background-color: yellowgreen;
 }
+
+.boxed {
+  text-align: justify;
+  width: 800px;
+  border: 5px solid green;
+  padding: 10px;
+  margin: 0 0 100px 250px;
+  font-size: 16px;
+  font-family: Open Sans;
+}
